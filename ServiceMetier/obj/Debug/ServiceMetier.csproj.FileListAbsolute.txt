@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Boutique\ServiceMetier\bin\ServiceMetier.dll.config
+C:\Users\HP\source\repos\Boutique\ServiceMetier\bin\ServiceMetier.dll
+C:\Users\HP\source\repos\Boutique\ServiceMetier\bin\ServiceMetier.pdb
+C:\Users\HP\source\repos\Boutique\ServiceMetier\bin\EntityFramework.dll
+C:\Users\HP\source\repos\Boutique\ServiceMetier\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\Boutique\ServiceMetier\bin\EntityFramework.xml
+C:\Users\HP\source\repos\Boutique\ServiceMetier\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\Boutique\ServiceMetier\obj\Debug\ServiceMetier.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Boutique\ServiceMetier\obj\Debug\ServiceMetier.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Boutique\ServiceMetier\obj\Debug\ServiceMetier.csproj.CopyComplete
+C:\Users\HP\source\repos\Boutique\ServiceMetier\obj\Debug\ServiceMetier.dll
+C:\Users\HP\source\repos\Boutique\ServiceMetier\obj\Debug\ServiceMetier.pdb
+C:\Users\HP\source\repos\Boutique\ServiceMetier\obj\Debug\ServiceMetier.Migrations.CreateArticleTable.resources
+C:\Users\HP\source\repos\Boutique\ServiceMetier\obj\Debug\ServiceMetier.csproj.GenerateResource.cache
